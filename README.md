@@ -9,7 +9,7 @@
 | Application | [x]   | Loads + renders collection                        |
 | Persistence | [x]   | Uses localStorage + fetch                         |
 | Rendering   | [x]   | Decks, slides, cards rendered                     |
-| Actions     | [ ]   | (put x only if you implemented add/remove events) |
+| Actions     | [ ]   |  |
 | Events      | [ ]   |                                                   |
 | Callbacks   | [ ]   |                                                   |
 | Shuffling   | [ ]   | (bonus)                                           |

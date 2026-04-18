@@ -1,35 +1,5 @@
 # Report
 
-## Repo Structure
-02-client-rendering/
-│
-├── data/
-│   └── collection.json
-│
-├── scripts/
-│   ├── base/              ← No modification
-│   ├── cards/
-│   │   ├── foreign-word.js
-│   │   ├── playing-card.js
-│   │   └── string-list.js
-│   ├── card.js
-│   ├── collection.js
-│   ├── deck.js
-│   ├── index.js
-│   └── slide.js
-│
-├── test/
-│   └── scripts/
-│       └── slide.spec.js
-│
-├── results/
-│   ├── index.html        
-│   ├── styles.css
-│   └── readme.md
-│
-├── package.json
-└── bun.lock
-
 
 
 
